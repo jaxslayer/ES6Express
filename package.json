@@ -1,0 +1,20 @@
+{
+  "name": "es6-express-snippets",
+  "displayName": "ES6 Express snippets",
+  "description": "Snippets for express using ES6 import",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
